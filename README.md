@@ -19,7 +19,7 @@ Prerequisites
 
 Installation
 1.	Clone the repository:
-git clone https://github.com/sumantahitk/ConneXion.git
+git clone https://github.com/gaurav9508/ConneXion
 cd ConneXion
 2.	Install the required dependencies:
 npm install
